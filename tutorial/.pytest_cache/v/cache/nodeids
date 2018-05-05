@@ -1,0 +1,4 @@
+[
+  "tutorial/tests.py::TestMyViewSuccessCondition::test_passing_view",
+  "tutorial/tests.py::TestMyViewFailureCondition::test_failing_view"
+]
